@@ -7,6 +7,7 @@ authors = ["Pamela Gotti <pamela.gotti@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 openai = "^0.27.5"
+python-dotenv = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
